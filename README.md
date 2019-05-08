@@ -13,7 +13,7 @@ It is a wrapper around an older version of the [keccak-tiny](https://github.com/
 Add the following to your `Cartfile`
 
 ```ruby
-github "uport-project/SwiftKeccak"
+github "MobileUpLLC/SwiftKeccak"
 ```
 
 ## Usage
